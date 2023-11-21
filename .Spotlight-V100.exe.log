@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "<install zipextimporter>", line 1, in <module>
+ImportError: No module named zipextimporter
+Traceback (most recent call last):
+  File "test0.py", line 1, in <module>
+ImportError: No module named ctypes
+Traceback (most recent call last):
+  File "<install zipextimporter>", line 1, in <module>
+ImportError: No module named zipextimporter
+Traceback (most recent call last):
+  File "test0.py", line 1, in <module>
+ImportError: No module named ctypes
+Traceback (most recent call last):
+  File "<install zipextimporter>", line 1, in <module>
+ImportError: No module named zipextimporter
+Traceback (most recent call last):
+  File "test0.py", line 1, in <module>
+ImportError: No module named ctypes
